@@ -1,1 +1,1 @@
-Solutions for Advent of Code 2025 in OCaml
+Partial Solutions for Advent of Code 2025 in OCaml
